@@ -1,2 +1,2 @@
 # Personal-Website
-My own personal website, used to study html css and javascript
+My personal website is for studying HTML, CSS, and JavaScript
