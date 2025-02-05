@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.219);
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.Title {
+    color: rgb(0, 60, 255)
+}
+
+.Button {
+    color: rgb(30, 255, 0)
+}
+
+p {
+    color: rgba(68, 43, 10, 0.767);
+    font-size: 18px;
+}
